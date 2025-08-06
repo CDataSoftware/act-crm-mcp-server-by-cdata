@@ -1,7 +1,7 @@
 # act-crm-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Act CRM
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Act CRM (beta)](https://www.cdata.com/download/download.aspx?sku=FTZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Act CRM (beta)](https://www.cdata.com/download/download.aspx?sku=FTZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Act CRM supported by the [CData JDBC Driver for Act CRM](https://www.cdata.com/drivers/actcrm/jdbc).
 
